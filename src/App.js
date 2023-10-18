@@ -1,6 +1,7 @@
 /** @format */
 
 import WeatherSearch from "./WeatherSearch";
+
 import "./styles.css";
 
 export default function App() {
